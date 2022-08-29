@@ -17,7 +17,14 @@
 ## 対応OS
 - docker-compose
 - Ubuntu Server
-- CentOS
+- CentOS  
+
+
+## どこに構築するか？
+対応しているOSが結局対応していないため、仮想でどこかにサーバー建てられないか検討  
+↓  
+
+
 
 ## 本家のページ
 [Geowi Docs](https://docs.growi.org/ja/)  
