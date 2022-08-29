@@ -1,5 +1,6 @@
-### Hi there 👋
-# 😄Growi Docs
+### Hi there 👋  
+
+## 😄Growi Docs
 [はじめに](suzuki1990ee/growidocs/page1.md)
 
 
