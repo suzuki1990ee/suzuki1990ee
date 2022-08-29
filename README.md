@@ -1,4 +1,9 @@
 ### Hi there 👋
+# 😄Growi Docs
+- 初めに
+[概要](suzuki1990ee/growidocs/page1.md)
+
+
 
 <!--
 **suzuki1990ee/suzuki1990ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
