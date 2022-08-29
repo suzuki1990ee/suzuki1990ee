@@ -1,5 +1,5 @@
-# Geowi Docs
-## Geowi Docsとは？
+# Growi Docs
+## Growi Docsとは？
 オープンソースかつマークダウン方式のwiki
 
 ## 今回なぜ利用しようと思ったか？
@@ -28,6 +28,6 @@
 
 
 ## 本家のページ
-[Geowi Docs](https://docs.growi.org/ja/)  
+[Growi Docs](https://docs.growi.org/ja/)  
 
 
