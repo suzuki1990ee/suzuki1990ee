@@ -14,6 +14,6 @@
  
 
 ## 本家のページ
-[Geowi Docs]("https://docs.growi.org/ja/")  
+[Geowi Docs](https://docs.growi.org/ja/)  
 
 
