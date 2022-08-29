@@ -12,6 +12,12 @@
 ↓  
 使ってみよう(^^)/   
  
+ 
+ 
+## 対応OS
+- docker-compose
+- Ubuntu Server
+- CentOS
 
 ## 本家のページ
 [Geowi Docs](https://docs.growi.org/ja/)  
