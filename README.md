@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 ## 😄Growi Docs
-[はじめに](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page1.md){:target="_blank"}
+[はじめに](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page1.md) {:target="_blank"} 
 
 
 
