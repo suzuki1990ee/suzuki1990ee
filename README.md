@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 ## 😄Growi Docs
-[はじめに](suzuki1990ee/blob/main/growidocs/page1.md)
+[はじめに](/suzuki1990ee/blob/main/growidocs/page1.md)
 
 
 
