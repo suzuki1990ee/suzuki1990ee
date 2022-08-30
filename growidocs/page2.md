@@ -7,8 +7,8 @@ VMwareをインストール
 ### GUIにしたい
 多少のLinuxコマンドはわかるが私はGUIの方が見やすい＆わかりやすいため、  
 GUIをインストール  
+  
 1.UPDATE  
-
 $ sudo apt-get update  
 2.desktop-package install  
 $ sudo apt-get -y install ubuntu-desktop  
