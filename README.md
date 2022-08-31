@@ -1,8 +1,10 @@
 ### Hi there 👋  
 
-## 😄Growi Docs
-[はじめに](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page1.md)
 
+## 😄Growi Docs
+今回適当なPCにVMware入れてUbuntuserverで社内Wikiを作成したいと思います。適当めも    
+[はじめに](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page1.md)
+[環境構築](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page2.md)
 
 
 <!--
