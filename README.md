@@ -3,9 +3,9 @@
 
 ## 😄Growi Docs
 今回適当なPCにVMware入れてUbuntuserverで社内Wikiを作成したいと思います。適当めも    
-[はじめに](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page1.md)
-[環境構築](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page2.md)
-
+[その１．はじめに](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page1.md)  
+[その２．環境構築](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page2.md)  
+  
 
 <!--
 **suzuki1990ee/suzuki1990ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
