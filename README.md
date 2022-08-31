@@ -2,7 +2,8 @@
 
 
 ## 😄Growi Docs
-今回適当なPCにVMware入れてUbuntuserverで社内Wikiを作成したいと思います。適当めも    
+今回適当なPCにVMware入れてUbuntuserverで社内Wikiを作成したいと思います。  
+※結構な素人の適当めもです。    
 [その１．はじめに](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page1.md)  
 [その２．環境構築](https://github.com/suzuki1990ee/suzuki1990ee/blob/main/growidocs/page2.md)  
   
