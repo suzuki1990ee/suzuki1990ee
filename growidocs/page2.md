@@ -13,7 +13,7 @@ $ sudo apt-get update
 2.desktop-package install  
 $ sudo apt-get -y install ubuntu-desktop  
 
-- ブラウザをインストール  
+### ブラウザをインストール  
 今回はBraveというブラウザをインストール  
 ※トラッカーや広告をわりとカットしてくれるらしい。ついでに仮想通貨もたまる  
 １．  
