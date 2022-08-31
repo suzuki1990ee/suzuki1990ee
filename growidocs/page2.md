@@ -16,6 +16,7 @@ $ sudo apt-get -y install ubuntu-desktop
 ### ブラウザをインストール  
 今回はBraveというブラウザをインストール  
 ※トラッカーや広告をわりとカットしてくれるらしい。ついでに仮想通貨もたまる  
+[Brave_linux](https://brave.com/linux/)
 １．  
 sudo apt install apt-transport-https curl  
 ２．  
